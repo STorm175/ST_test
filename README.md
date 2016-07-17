@@ -1,5 +1,5 @@
 # ST_test
-nghich linh tinh
+// nghich linh tinh
 code java
 public class Student{
   public static void main(String[] args){
